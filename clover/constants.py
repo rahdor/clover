@@ -1,0 +1,7 @@
+DATA_PATH = "data/"
+SPEC_PATH = "specs/"
+ARCH_PATH = "archive/"
+dbname = "parse_file"
+user = "parse_user"
+password = ""
+DATE_DROPPED = "dropped"
